@@ -1,0 +1,44 @@
+.logo{
+    height: 50px;
+    text-align: center;
+
+}
+.logo-dive{
+    text-align: center;
+    margin: 10px;
+}
+.header nav{
+    background-color: rgb(255, 247, 247);
+    color: rgb(2, 1, 1);
+    padding: 20px;
+    box-shadow:-1px 0px 14px 2px rgb(235 208 208 / 72%)
+}
+.header nav a{
+    text-decoration: none;
+    margin-left: 10px;
+    padding: 10px;
+    color: rgb(14, 11, 11);
+    font-weight: bold;
+}
+.header nav a:hover{
+    background-color: rgb(147, 156, 127);
+    border-radius: 10px;
+}
+.search {
+    margin: auto;
+
+}
+.input1{
+        padding: 10px;
+    border-radius: 20px;
+    width: 500px;
+}
+.btn{
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color: rgb(238, 15, 82);
+    border: 1px solid red;
+    color: white;
+    font-weight: bolder;
+}
